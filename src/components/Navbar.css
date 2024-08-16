@@ -1,0 +1,18 @@
+.navbar-custom {
+    background-color: brown;
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link,
+  .navbar-custom .navbar-toggler-icon,
+  .navbar-custom .nav-dropdown .dropdown-item {
+    color: white;
+  }
+  
+  .navbar-custom .nav-link:hover,
+  .navbar-custom .nav-link:focus,
+  .navbar-custom .nav-dropdown .dropdown-item:hover,
+  .navbar-custom .nav-dropdown .dropdown-item:focus {
+    color: #ddd;
+  }
+  

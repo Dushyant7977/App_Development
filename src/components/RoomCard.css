@@ -1,0 +1,31 @@
+.room-card {
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 600px;
+    width: 600px;
+    display: flex;
+  }
+  
+  .room-card .price-tag {
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 3px;
+  }
+  
+  .room-card .rating {
+    color: #ffcc00;
+    font-size: 1.2em;
+  }
+  
+  .room-card .button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    color: white;
+  }

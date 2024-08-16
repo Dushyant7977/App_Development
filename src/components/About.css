@@ -1,0 +1,16 @@
+
+img{
+    height: 600px;
+    width: 100%;
+    filter: grayscale(50%);
+    
+}
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(249, 249, 249);
+    font-size: 75px;
+    
+  }
